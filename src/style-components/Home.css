@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+.home-container {
+    position: relative;
+    min-height: 100vh;
+    overflow-y: auto; /* Allow vertical scrolling */
+    margin-bottom: 50px;
+}
+
+.top-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background for better readability */
+    z-index: 2;
+}
+
+.background-image-home {
+    background-image: url('../images/Homepage.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 500px; 
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.middle-text {
+    color: white;
+    text-align: center;
+    padding: 180px 20px;
+}
+
+.middle-text h1 {
+    font-size: 60px;
+    font-family: 'Arial', serif;
+}
+
+.middle-text p {
+    font-size: 2em; 
+    font-family: 'EB Garamond', serif;
+}
+
+.content {
+    position: relative;
+    text-align: center;
+    color: black;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 700px; 
+    margin: 0 auto;
+}
+
+.about-info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.about-info h2 {
+    font-family: 'EB Garamond', serif;
+    color: rgb(13, 12, 13);
+    font-size: 24px; /* Adjust font size as needed */
+    margin-bottom: 10px; /* Add space below the heading */
+}
+
+.about-info p {
+    font-family: 'EB Garamond', serif;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    word-wrap: break-word;
+    max-width: 600px; 
+    margin: 0 auto; 
+    text-align: justify; 
+    text-align-last: left; 
+    margin-bottom: 20px; 
+}
+
+.contact-paragraph {
+    font-family: 'EB Garamond', serif;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    word-wrap: break-word;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+    text-align-last: left;
+    margin-bottom: 20px;
+}
