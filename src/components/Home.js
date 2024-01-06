@@ -41,7 +41,6 @@ const Home = () => {
                         what you're seeing now is the product of one of my 
                         "would never have done that, hence I give it a shot" journeys. 
                             
-                        
                     </p>
 
                 </div>
