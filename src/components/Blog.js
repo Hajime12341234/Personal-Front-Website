@@ -93,15 +93,15 @@ const Blog = () => {
             <span className="date-published">JANUARY 5, 2024 | 4 MINUTE READ</span>
             <span className="blog-title">The Blog Title 1</span>
             <span className="blog-excerpt">
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more.
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more.
               {/* ... Repeat for the other excerpts ... */}
             </span>
           </div>
@@ -111,12 +111,12 @@ const Blog = () => {
             <span className="date-published">JANUARY 10, 2024 | 3 MINUTE READ</span>
             <span className="blog-title">The Blog Title 2</span>
             <span className="blog-excerpt">
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
-              The main text is displayed here... Click to read more. I have a pen
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
+              The main text is displayed here... Click to read more. 
               {/* ... Repeat for the other excerpts ... */}
             </span>
           </div>
