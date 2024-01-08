@@ -1,4 +1,4 @@
-Please have a look at the following YouTube video to see how my website looks like. Note that my website is still in progress. 
+Please have a look at the following YouTube video to see how my website looks like. Please note that my website is still in progress. 
 
 https://www.youtube.com/watch?v=BNfFrMbPeZA&ab_channel=Hajime
 
